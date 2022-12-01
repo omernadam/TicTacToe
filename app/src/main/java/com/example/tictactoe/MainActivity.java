@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Button[][] buttons = new Button[3][3];
 
     private boolean player1Turn = true;
-    //test
     private int roundCount;
     private int player1Points;
     private int player2Points;
